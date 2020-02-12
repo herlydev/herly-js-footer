@@ -1,0 +1,25 @@
+{
+  "name": "herly-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for dynamic footer to be generated for JS application with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/herlydev/herly-js-footer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herlydev/herly-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Herly Sarmiento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herlydev/herly-js-footer/issues"
+  },
+  "homepage": "https://github.com/herlydev/herly-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
